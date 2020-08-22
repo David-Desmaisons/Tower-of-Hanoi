@@ -1,4 +1,4 @@
-### Hanoi-Tower
+## Tower of Hanoi
 
 
 - This is a "brute force" version of the Hanoi tower problem implemented in prolog.
@@ -7,7 +7,7 @@
 
 - Obviously performance is much worse as the standard solution.
 
-## Usage
+### Usage
 
 - `hanoi(N,Solution)` where N is the number of elements and Solution is the solution.
 
