@@ -15,6 +15,6 @@ Ex:
 
 ```
 ؀?- hanoi(3,Solution).
-X = [move(left, rigth), move(left, middle), move(rigth, middle), move(left, rigth), 
+Solution = [move(left, rigth), move(left, middle), move(rigth, middle), move(left, rigth), 
       move(middle, left), move(middle, rigth), move(left, rigth)] 
 ```
